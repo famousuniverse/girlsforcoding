@@ -1,7 +1,6 @@
 {
   "hosting": {
-    "public": "dist",
-    "site": "girlsforcoding-com",
+    "public": "y",
     "ignore": [
       "firebase.json",
       "**/.*",
