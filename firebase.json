@@ -1,7 +1,6 @@
 {
   "hosting": {
-    "site": "girlsforcoding-com",
-    "public": "y",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
