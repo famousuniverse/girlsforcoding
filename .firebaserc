@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "girlsforcoding"
+    "default": "girlsforcoding",
+    "girlsforcodingStaging": "girlsforcoding"
   }
 }
